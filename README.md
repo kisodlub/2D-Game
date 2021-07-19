@@ -3,4 +3,4 @@
 Simple 2D game
 --------
 The goal is to pass 3 rooms without dying once.
-All images are made by myself :D
+All images were made by myself :D
